@@ -3,7 +3,6 @@ https://github.com/teamleadercrm/coding-test/blob/master/1-discounts.md
 
 
 # The solution:
-
 This project was built under PHP 7.1
 
 ## test_example.php (testing file)
@@ -14,7 +13,7 @@ This project was built under PHP 7.1
 
 ## config_discounts.php 
 - the config file for the discounts, what discounts we apply with parameters
-- "discount_name" value represents the PHP class 
+- "discount_name" value represents the PHP class for a specific discount, ex: CategoryXBuyYFreeZ
 - "params" value is the array withe the parameters (X, Y, Z) that will be raplaced in the discount class, ex: CategoryXBuyYFreeZ(X, Y, Z)
 
 ## config_sources.php 
