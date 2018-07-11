@@ -4,7 +4,7 @@ https://github.com/teamleadercrm/coding-test/blob/master/1-discounts.md
 
 # The solution:
 
-## This project was made under PHP 7.1
+This project was built under PHP 7.1
 
 ## test_example.php 
 - the file for testing the ouput for the initial JSON order transformed in array and for the JSON order after the discounts are applied transformed in array
